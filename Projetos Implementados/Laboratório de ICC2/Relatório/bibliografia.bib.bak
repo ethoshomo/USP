@@ -1,0 +1,29 @@
+% Encoding: UTF-8
+
+@Book{Cormen2012,
+  author    = {Cormen, Thomas},
+  publisher = {Campus},
+  title     = {Algoritmos : teoria e prática},
+  year      = {2012},
+  address   = {Rio de Janeiro},
+  isbn      = {9788535236996},
+}
+@Standard{2021,
+  institution = {Wikipedia: a Enciclopédia Livre},
+  title       = {Merge Sort},
+  language    = {Português},
+  month       = oct,
+  url         = {https://pt.wikipedia.org/wiki/Merge_sort#Complexidade},
+  year        = {2021},
+}
+
+@Standard{,
+  organization = {Universidade Federal de Juiz de Fora},
+  title        = {Método Insertion Sort - Estrutura de Dados II},
+  author       = {José Francisco de Souza},
+  month        = oct,
+  url          = {https://www.ufjf.br/jairo_souza/files/2009/12/2-Ordenação-InsertionSort.pdf},
+  year         = {2021},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

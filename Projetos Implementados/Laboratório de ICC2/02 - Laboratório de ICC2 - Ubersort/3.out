@@ -1,0 +1,1441 @@
+Fazendo a mediana de: 999 500 1
+Pivô escolhido: 500
+Fazendo a mediana de: 2 251 1
+Pivô escolhido: 2
+Começando o insertion sort com: 1
+Fazendo a mediana de: 5 253 3
+Pivô escolhido: 5
+Começando o insertion sort com: 3 4
+Fazendo a mediana de: 9 255 6
+Pivô escolhido: 9
+Começando o insertion sort com: 6 7 8
+Fazendo a mediana de: 14 258 10
+Pivô escolhido: 14
+Começando o insertion sort com: 10 11 12 13
+Fazendo a mediana de: 20 262 15
+Pivô escolhido: 20
+Começando o insertion sort com: 15 16 17 18 19
+Fazendo a mediana de: 27 266 21
+Pivô escolhido: 27
+Começando o insertion sort com: 21 22 23 24 25 26
+Fazendo a mediana de: 35 270 28
+Pivô escolhido: 35
+Começando o insertion sort com: 28 29 30 31 32 33 34
+Fazendo a mediana de: 44 275 36
+Pivô escolhido: 44
+Começando o insertion sort com: 36 37 38 39 40 41 42 43
+Fazendo a mediana de: 54 281 45
+Pivô escolhido: 54
+Começando o insertion sort com: 45 46 47 48 49 50 51 52 53
+Fazendo a mediana de: 65 287 55
+Pivô escolhido: 65
+Começando o insertion sort com: 55 56 57 58 59 60 61 62 63 64
+Fazendo a mediana de: 77 293 66
+Pivô escolhido: 77
+Fazendo a mediana de: 66 71 76
+Pivô escolhido: 71
+Começando o insertion sort com: 66 67 68 69 70
+Começando o insertion sort com: 73 74 75 72 76
+Fazendo a mediana de: 90 300 78
+Pivô escolhido: 90
+Fazendo a mediana de: 78 83 89
+Pivô escolhido: 83
+Começando o insertion sort com: 78 79 80 81 82
+Começando o insertion sort com: 85 86 87 88 84 89
+Fazendo a mediana de: 104 308 91
+Pivô escolhido: 104
+Fazendo a mediana de: 91 97 103
+Pivô escolhido: 97
+Começando o insertion sort com: 91 92 93 94 95 96
+Começando o insertion sort com: 99 100 101 102 98 103
+Fazendo a mediana de: 119 316 105
+Pivô escolhido: 119
+Fazendo a mediana de: 105 111 118
+Pivô escolhido: 111
+Começando o insertion sort com: 105 106 107 108 109 110
+Começando o insertion sort com: 113 114 115 116 117 112 118
+Fazendo a mediana de: 135 324 120
+Pivô escolhido: 135
+Fazendo a mediana de: 120 127 134
+Pivô escolhido: 127
+Começando o insertion sort com: 120 121 122 123 124 125 126
+Começando o insertion sort com: 129 130 131 132 133 128 134
+Fazendo a mediana de: 152 333 136
+Pivô escolhido: 152
+Fazendo a mediana de: 136 143 151
+Pivô escolhido: 143
+Começando o insertion sort com: 136 137 138 139 140 141 142
+Começando o insertion sort com: 145 146 147 148 149 150 144 151
+Fazendo a mediana de: 170 343 153
+Pivô escolhido: 170
+Fazendo a mediana de: 153 161 169
+Pivô escolhido: 161
+Começando o insertion sort com: 153 154 155 156 157 158 159 160
+Começando o insertion sort com: 163 164 165 166 167 168 162 169
+Fazendo a mediana de: 189 353 171
+Pivô escolhido: 189
+Fazendo a mediana de: 171 179 188
+Pivô escolhido: 179
+Começando o insertion sort com: 171 172 173 174 175 176 177 178
+Começando o insertion sort com: 181 182 183 184 185 186 187 180 188
+Fazendo a mediana de: 209 363 190
+Pivô escolhido: 209
+Fazendo a mediana de: 190 199 208
+Pivô escolhido: 199
+Começando o insertion sort com: 190 191 192 193 194 195 196 197 198
+Começando o insertion sort com: 201 202 203 204 205 206 207 200 208
+Fazendo a mediana de: 230 374 210
+Pivô escolhido: 230
+Fazendo a mediana de: 210 219 229
+Pivô escolhido: 219
+Começando o insertion sort com: 210 211 212 213 214 215 216 217 218
+Começando o insertion sort com: 221 222 223 224 225 226 227 228 220 229
+Fazendo a mediana de: 252 386 231
+Pivô escolhido: 252
+Fazendo a mediana de: 231 241 251
+Pivô escolhido: 241
+Começando o insertion sort com: 231 232 233 234 235 236 237 238 239 240
+Começando o insertion sort com: 243 244 245 246 247 248 249 250 242 251
+Fazendo a mediana de: 275 398 253
+Pivô escolhido: 275
+Fazendo a mediana de: 253 263 274
+Pivô escolhido: 263
+Começando o insertion sort com: 253 254 255 256 257 258 259 260 261 262
+Fazendo a mediana de: 265 270 274
+Pivô escolhido: 270
+Começando o insertion sort com: 265 266 267 268 269 264
+Começando o insertion sort com: 273 272 271 274
+Fazendo a mediana de: 299 410 276
+Pivô escolhido: 299
+Fazendo a mediana de: 276 287 298
+Pivô escolhido: 287
+Fazendo a mediana de: 276 281 286
+Pivô escolhido: 281
+Começando o insertion sort com: 276 277 278 279 280
+Começando o insertion sort com: 283 284 285 282 286
+Fazendo a mediana de: 289 294 298
+Pivô escolhido: 294
+Começando o insertion sort com: 289 290 291 292 293 288
+Começando o insertion sort com: 297 296 295 298
+Fazendo a mediana de: 324 423 300
+Pivô escolhido: 324
+Fazendo a mediana de: 300 311 323
+Pivô escolhido: 311
+Fazendo a mediana de: 300 305 310
+Pivô escolhido: 305
+Começando o insertion sort com: 300 301 302 303 304
+Começando o insertion sort com: 307 308 309 306 310
+Fazendo a mediana de: 313 318 323
+Pivô escolhido: 318
+Começando o insertion sort com: 313 314 315 316 317 312
+Começando o insertion sort com: 321 322 320 319 323
+Fazendo a mediana de: 350 437 325
+Pivô escolhido: 350
+Fazendo a mediana de: 325 337 349
+Pivô escolhido: 337
+Fazendo a mediana de: 325 330 336
+Pivô escolhido: 330
+Começando o insertion sort com: 325 326 327 328 329
+Começando o insertion sort com: 332 333 334 335 331 336
+Fazendo a mediana de: 339 344 349
+Pivô escolhido: 344
+Começando o insertion sort com: 339 340 341 342 343 338
+Começando o insertion sort com: 347 348 346 345 349
+Fazendo a mediana de: 377 451 351
+Pivô escolhido: 377
+Fazendo a mediana de: 351 363 376
+Pivô escolhido: 363
+Fazendo a mediana de: 351 356 362
+Pivô escolhido: 356
+Começando o insertion sort com: 351 352 353 354 355
+Começando o insertion sort com: 358 359 360 361 357 362
+Fazendo a mediana de: 365 371 376
+Pivô escolhido: 371
+Começando o insertion sort com: 365 366 367 368 369 370 364
+Começando o insertion sort com: 374 375 373 372 376
+Fazendo a mediana de: 405 465 378
+Pivô escolhido: 405
+Fazendo a mediana de: 378 391 404
+Pivô escolhido: 391
+Fazendo a mediana de: 378 384 390
+Pivô escolhido: 384
+Começando o insertion sort com: 378 379 380 381 382 383
+Começando o insertion sort com: 386 387 388 389 385 390
+Fazendo a mediana de: 393 399 404
+Pivô escolhido: 399
+Começando o insertion sort com: 393 394 395 396 397 398 392
+Começando o insertion sort com: 402 403 401 400 404
+Fazendo a mediana de: 434 480 406
+Pivô escolhido: 434
+Fazendo a mediana de: 406 419 433
+Pivô escolhido: 419
+Fazendo a mediana de: 406 412 418
+Pivô escolhido: 412
+Começando o insertion sort com: 406 407 408 409 410 411
+Começando o insertion sort com: 414 415 416 417 413 418
+Fazendo a mediana de: 421 427 433
+Pivô escolhido: 427
+Começando o insertion sort com: 421 422 423 424 425 426 420
+Começando o insertion sort com: 430 431 432 429 428 433
+Fazendo a mediana de: 464 496 435
+Pivô escolhido: 464
+Fazendo a mediana de: 435 449 463
+Pivô escolhido: 449
+Fazendo a mediana de: 435 441 448
+Pivô escolhido: 441
+Começando o insertion sort com: 435 436 437 438 439 440
+Começando o insertion sort com: 443 444 445 446 447 442 448
+Fazendo a mediana de: 451 457 463
+Pivô escolhido: 457
+Começando o insertion sort com: 451 452 453 454 455 456 450
+Começando o insertion sort com: 460 461 462 459 458 463
+Fazendo a mediana de: 495 482 465
+Pivô escolhido: 482
+Fazendo a mediana de: 466 474 465
+Pivô escolhido: 466
+Começando o insertion sort com: 465
+Fazendo a mediana de: 469 476 467
+Pivô escolhido: 469
+Começando o insertion sort com: 467 468
+Fazendo a mediana de: 473 478 470
+Pivô escolhido: 473
+Começando o insertion sort com: 470 471 472
+Começando o insertion sort com: 478 479 480 481 477 476 475 474
+Fazendo a mediana de: 483 491 495
+Pivô escolhido: 491
+Começando o insertion sort com: 483 484 485 486 487 488 489 490
+Começando o insertion sort com: 493 494 499 498 497 496 492 495
+Fazendo a mediana de: 501 750 999
+Pivô escolhido: 750
+Fazendo a mediana de: 501 625 749
+Pivô escolhido: 625
+Fazendo a mediana de: 501 562 624
+Pivô escolhido: 562
+Fazendo a mediana de: 501 531 561
+Pivô escolhido: 531
+Fazendo a mediana de: 501 515 530
+Pivô escolhido: 515
+Fazendo a mediana de: 501 507 514
+Pivô escolhido: 507
+Começando o insertion sort com: 501 502 503 504 505 506
+Começando o insertion sort com: 509 510 511 512 513 508 514
+Fazendo a mediana de: 517 524 530
+Pivô escolhido: 524
+Começando o insertion sort com: 517 518 519 520 521 522 523 516
+Começando o insertion sort com: 527 528 529 526 525 530
+Fazendo a mediana de: 533 547 561
+Pivô escolhido: 547
+Fazendo a mediana de: 533 540 532
+Pivô escolhido: 533
+Começando o insertion sort com: 532
+Fazendo a mediana de: 536 542 534
+Pivô escolhido: 536
+Começando o insertion sort com: 534 535
+Começando o insertion sort com: 540 541 542 543 544 545 546 539 538 537
+Fazendo a mediana de: 550 556 561
+Pivô escolhido: 556
+Começando o insertion sort com: 550 551 552 553 554 555 548 549
+Começando o insertion sort com: 560 559 558 557 561
+Fazendo a mediana de: 564 594 624
+Pivô escolhido: 594
+Fazendo a mediana de: 564 579 563
+Pivô escolhido: 564
+Começando o insertion sort com: 563
+Fazendo a mediana de: 567 581 565
+Pivô escolhido: 567
+Começando o insertion sort com: 565 566
+Fazendo a mediana de: 571 583 568
+Pivô escolhido: 571
+Começando o insertion sort com: 568 569 570
+Fazendo a mediana de: 576 586 572
+Pivô escolhido: 576
+Começando o insertion sort com: 572 573 574 575
+Fazendo a mediana de: 582 590 577
+Pivô escolhido: 582
+Começando o insertion sort com: 577 578 579 580 581
+Fazendo a mediana de: 589 588 583
+Pivô escolhido: 588
+Começando o insertion sort com: 584 585 586 587 583
+Começando o insertion sort com: 593 592 591 590 589
+Fazendo a mediana de: 597 611 624
+Pivô escolhido: 611
+Fazendo a mediana de: 597 604 596
+Pivô escolhido: 597
+Começando o insertion sort com: 596 595
+Fazendo a mediana de: 601 607 598
+Pivô escolhido: 601
+Começando o insertion sort com: 598 599 600
+Começando o insertion sort com: 606 607 608 609 610 605 604 603 602
+Fazendo a mediana de: 615 621 624
+Pivô escolhido: 621
+Começando o insertion sort com: 615 616 617 618 619 620 612 613 614
+Começando o insertion sort com: 623 622 624
+Fazendo a mediana de: 627 688 749
+Pivô escolhido: 688
+Fazendo a mediana de: 627 657 626
+Pivô escolhido: 627
+Começando o insertion sort com: 626
+Fazendo a mediana de: 630 659 628
+Pivô escolhido: 630
+Começando o insertion sort com: 628 629
+Fazendo a mediana de: 634 662 631
+Pivô escolhido: 634
+Começando o insertion sort com: 631 632 633
+Fazendo a mediana de: 639 665 635
+Pivô escolhido: 639
+Começando o insertion sort com: 635 636 637 638
+Fazendo a mediana de: 645 668 640
+Pivô escolhido: 645
+Começando o insertion sort com: 640 641 642 643 644
+Fazendo a mediana de: 652 672 646
+Pivô escolhido: 652
+Começando o insertion sort com: 646 647 648 649 650 651
+Fazendo a mediana de: 660 677 653
+Pivô escolhido: 660
+Começando o insertion sort com: 653 654 655 656 657 658 659
+Fazendo a mediana de: 669 682 661
+Pivô escolhido: 669
+Começando o insertion sort com: 661 662 663 664 665 666 667 668
+Fazendo a mediana de: 679 687 670
+Pivô escolhido: 679
+Começando o insertion sort com: 670 671 672 673 674 675 676 677 678
+Começando o insertion sort com: 687 686 685 684 683 682 681 680
+Fazendo a mediana de: 691 721 749
+Pivô escolhido: 721
+Fazendo a mediana de: 691 706 690
+Pivô escolhido: 691
+Começando o insertion sort com: 690 689
+Fazendo a mediana de: 695 709 692
+Pivô escolhido: 695
+Começando o insertion sort com: 692 693 694
+Fazendo a mediana de: 700 712 696
+Pivô escolhido: 700
+Começando o insertion sort com: 696 697 698 699
+Fazendo a mediana de: 706 715 701
+Pivô escolhido: 706
+Começando o insertion sort com: 701 702 703 704 705
+Fazendo a mediana de: 713 719 707
+Pivô escolhido: 713
+Começando o insertion sort com: 707 708 709 710 711 712
+Começando o insertion sort com: 720 719 718 717 716 715 714
+Fazendo a mediana de: 725 738 749
+Pivô escolhido: 738
+Fazendo a mediana de: 725 732 724
+Pivô escolhido: 725
+Começando o insertion sort com: 724 723 722
+Fazendo a mediana de: 730 735 726
+Pivô escolhido: 730
+Começando o insertion sort com: 726 727 728 729
+Começando o insertion sort com: 736 737 735 734 733 732 731
+Fazendo a mediana de: 743 748 749
+Pivô escolhido: 748
+Começando o insertion sort com: 743 744 745 746 747 742 741 740 739
+Começando o insertion sort com: 749
+Fazendo a mediana de: 752 876 999
+Pivô escolhido: 876
+Fazendo a mediana de: 752 814 751
+Pivô escolhido: 752
+Começando o insertion sort com: 751
+Fazendo a mediana de: 755 816 753
+Pivô escolhido: 755
+Começando o insertion sort com: 753 754
+Fazendo a mediana de: 759 818 756
+Pivô escolhido: 759
+Começando o insertion sort com: 756 757 758
+Fazendo a mediana de: 764 821 760
+Pivô escolhido: 764
+Começando o insertion sort com: 760 761 762 763
+Fazendo a mediana de: 770 825 765
+Pivô escolhido: 770
+Começando o insertion sort com: 765 766 767 768 769
+Fazendo a mediana de: 777 829 771
+Pivô escolhido: 777
+Começando o insertion sort com: 771 772 773 774 775 776
+Fazendo a mediana de: 785 833 778
+Pivô escolhido: 785
+Começando o insertion sort com: 778 779 780 781 782 783 784
+Fazendo a mediana de: 794 838 786
+Pivô escolhido: 794
+Começando o insertion sort com: 786 787 788 789 790 791 792 793
+Fazendo a mediana de: 804 844 795
+Pivô escolhido: 804
+Começando o insertion sort com: 795 796 797 798 799 800 801 802 803
+Fazendo a mediana de: 815 850 805
+Pivô escolhido: 815
+Começando o insertion sort com: 805 806 807 808 809 810 811 812 813 814
+Fazendo a mediana de: 827 856 816
+Pivô escolhido: 827
+Fazendo a mediana de: 816 821 826
+Pivô escolhido: 821
+Começando o insertion sort com: 816 817 818 819 820
+Começando o insertion sort com: 823 824 825 822 826
+Fazendo a mediana de: 840 863 828
+Pivô escolhido: 840
+Fazendo a mediana de: 828 833 839
+Pivô escolhido: 833
+Começando o insertion sort com: 828 829 830 831 832
+Começando o insertion sort com: 835 836 837 838 834 839
+Fazendo a mediana de: 854 871 841
+Pivô escolhido: 854
+Fazendo a mediana de: 841 847 853
+Pivô escolhido: 847
+Começando o insertion sort com: 841 842 843 844 845 846
+Começando o insertion sort com: 849 850 851 852 848 853
+Fazendo a mediana de: 869 865 855
+Pivô escolhido: 865
+Começando o insertion sort com: 856 857 858 859 860 861 862 863 864 855
+Começando o insertion sort com: 866 867 868 875 874 873 872 871 870 869
+Fazendo a mediana de: 879 940 999
+Pivô escolhido: 940
+Fazendo a mediana de: 879 910 878
+Pivô escolhido: 879
+Começando o insertion sort com: 878 877
+Fazendo a mediana de: 883 912 880
+Pivô escolhido: 883
+Começando o insertion sort com: 880 881 882
+Fazendo a mediana de: 888 915 884
+Pivô escolhido: 888
+Começando o insertion sort com: 884 885 886 887
+Fazendo a mediana de: 894 919 889
+Pivô escolhido: 894
+Começando o insertion sort com: 889 890 891 892 893
+Fazendo a mediana de: 901 923 895
+Pivô escolhido: 901
+Começando o insertion sort com: 895 896 897 898 899 900
+Fazendo a mediana de: 909 927 902
+Pivô escolhido: 909
+Começando o insertion sort com: 902 903 904 905 906 907 908
+Fazendo a mediana de: 918 932 910
+Pivô escolhido: 918
+Começando o insertion sort com: 910 911 912 913 914 915 916 917
+Fazendo a mediana de: 928 938 919
+Pivô escolhido: 928
+Começando o insertion sort com: 919 920 921 922 923 924 925 926 927
+Fazendo a mediana de: 939 934 929
+Pivô escolhido: 934
+Começando o insertion sort com: 930 931 932 933 929
+Começando o insertion sort com: 935 936 937 938 939
+Fazendo a mediana de: 944 973 999
+Pivô escolhido: 973
+Fazendo a mediana de: 944 959 943
+Pivô escolhido: 944
+Começando o insertion sort com: 943 942 941
+Fazendo a mediana de: 949 962 945
+Pivô escolhido: 949
+Começando o insertion sort com: 945 946 947 948
+Fazendo a mediana de: 955 966 950
+Pivô escolhido: 955
+Começando o insertion sort com: 950 951 952 953 954
+Fazendo a mediana de: 962 970 956
+Pivô escolhido: 962
+Começando o insertion sort com: 956 957 958 959 960 961
+Começando o insertion sort com: 970 971 972 969 968 967 966 965 964 963
+Fazendo a mediana de: 978 990 999
+Pivô escolhido: 990
+Fazendo a mediana de: 978 985 977
+Pivô escolhido: 978
+Começando o insertion sort com: 977 976 975 974
+Fazendo a mediana de: 984 989 979
+Pivô escolhido: 984
+Começando o insertion sort com: 979 980 981 982 983
+Começando o insertion sort com: 989 988 987 986 985
+Começando o insertion sort com: 996 997 998 995 994 993 992 991 999
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425
+426
+427
+428
+429
+430
+431
+432
+433
+434
+435
+436
+437
+438
+439
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449
+450
+451
+452
+453
+454
+455
+456
+457
+458
+459
+460
+461
+462
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512
+513
+514
+515
+516
+517
+518
+519
+520
+521
+522
+523
+524
+525
+526
+527
+528
+529
+530
+531
+532
+533
+534
+535
+536
+537
+538
+539
+540
+541
+542
+543
+544
+545
+546
+547
+548
+549
+550
+551
+552
+553
+554
+555
+556
+557
+558
+559
+560
+561
+562
+563
+564
+565
+566
+567
+568
+569
+570
+571
+572
+573
+574
+575
+576
+577
+578
+579
+580
+581
+582
+583
+584
+585
+586
+587
+588
+589
+590
+591
+592
+593
+594
+595
+596
+597
+598
+599
+600
+601
+602
+603
+604
+605
+606
+607
+608
+609
+610
+611
+612
+613
+614
+615
+616
+617
+618
+619
+620
+621
+622
+623
+624
+625
+626
+627
+628
+629
+630
+631
+632
+633
+634
+635
+636
+637
+638
+639
+640
+641
+642
+643
+644
+645
+646
+647
+648
+649
+650
+651
+652
+653
+654
+655
+656
+657
+658
+659
+660
+661
+662
+663
+664
+665
+666
+667
+668
+669
+670
+671
+672
+673
+674
+675
+676
+677
+678
+679
+680
+681
+682
+683
+684
+685
+686
+687
+688
+689
+690
+691
+692
+693
+694
+695
+696
+697
+698
+699
+700
+701
+702
+703
+704
+705
+706
+707
+708
+709
+710
+711
+712
+713
+714
+715
+716
+717
+718
+719
+720
+721
+722
+723
+724
+725
+726
+727
+728
+729
+730
+731
+732
+733
+734
+735
+736
+737
+738
+739
+740
+741
+742
+743
+744
+745
+746
+747
+748
+749
+750
+751
+752
+753
+754
+755
+756
+757
+758
+759
+760
+761
+762
+763
+764
+765
+766
+767
+768
+769
+770
+771
+772
+773
+774
+775
+776
+777
+778
+779
+780
+781
+782
+783
+784
+785
+786
+787
+788
+789
+790
+791
+792
+793
+794
+795
+796
+797
+798
+799
+800
+801
+802
+803
+804
+805
+806
+807
+808
+809
+810
+811
+812
+813
+814
+815
+816
+817
+818
+819
+820
+821
+822
+823
+824
+825
+826
+827
+828
+829
+830
+831
+832
+833
+834
+835
+836
+837
+838
+839
+840
+841
+842
+843
+844
+845
+846
+847
+848
+849
+850
+851
+852
+853
+854
+855
+856
+857
+858
+859
+860
+861
+862
+863
+864
+865
+866
+867
+868
+869
+870
+871
+872
+873
+874
+875
+876
+877
+878
+879
+880
+881
+882
+883
+884
+885
+886
+887
+888
+889
+890
+891
+892
+893
+894
+895
+896
+897
+898
+899
+900
+901
+902
+903
+904
+905
+906
+907
+908
+909
+910
+911
+912
+913
+914
+915
+916
+917
+918
+919
+920
+921
+922
+923
+924
+925
+926
+927
+928
+929
+930
+931
+932
+933
+934
+935
+936
+937
+938
+939
+940
+941
+942
+943
+944
+945
+946
+947
+948
+949
+950
+951
+952
+953
+954
+955
+956
+957
+958
+959
+960
+961
+962
+963
+964
+965
+966
+967
+968
+969
+970
+971
+972
+973
+974
+975
+976
+977
+978
+979
+980
+981
+982
+983
+984
+985
+986
+987
+988
+989
+990
+991
+992
+993
+994
+995
+996
+997
+998
+999
